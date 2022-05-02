@@ -1,0 +1,29 @@
+{
+  "name": "js-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.10",
+    "commander": "^9.2.0",
+    "crayon": "^6.0.1",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.0",
+    "insane": "^2.6.2",
+    "marked": "^4.0.14",
+    "node-notifier": "^10.0.1",
+    "openpgp": "^5.2.1",
+    "ora": "^6.1.0",
+    "shelljs": "^0.8.5",
+    "uuid": "^8.3.2"
+  },
+  "type": "module"
+}
